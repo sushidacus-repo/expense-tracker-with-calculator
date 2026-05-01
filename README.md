@@ -7,7 +7,6 @@ This is a Advanced Scientific calculator using the python3 KivyMD module. The pr
 
 # Prerequisites
 No prerequisites
-Python 3.6 to 3.9 only, Python 3.10 does not support kivy
 
 # Installation
 to run the app on your machine, all what you need are the prerequisites mentioned above...
